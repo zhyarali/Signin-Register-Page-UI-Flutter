@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\DotNet\OneDrive\Documents\Flutter App\authentication\build\windows\CMakeFiles\db8e9580232b455412bddd194d2dc616\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A3FCB6AE-93D9-3696-A436-5D049EFF6C8A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
